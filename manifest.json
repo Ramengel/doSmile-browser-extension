@@ -1,8 +1,8 @@
 {
-    "name": "Tasty extension",
+    "name": "doSmile browser extension",
     "manifest_version": 2,
     "version": "1.0",
-    "description": "Tasty extension",
+    "description": "doSmile browser extension",
     "permissions": [
         "https://*/*"
         ],
