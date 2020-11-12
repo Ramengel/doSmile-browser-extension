@@ -4,9 +4,7 @@ const listImages = [
     "smile3.gif",
     "smile4.gif",
     "smile5.gif",
-    "smile6.gif",
     "smile7.gif",
-    "smile8.gif"
 ];
 
 const getRandomInt = (max) =>  Math.floor(Math.random() * Math.floor(max));
